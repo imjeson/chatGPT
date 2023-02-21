@@ -106,3 +106,5 @@ chatGPT中文资料-gptnb.com
 *   [gptlang](https://github.com/forrestchang/gptlang) : 试验是不能利用ChatGPT 建立一个程序式语言的试验。
 
 * * *
+
+![alt 属性文本](https://raw.githubusercontent.com/imjeson/chatGPT/main/_images/weixin.png "更多咨询，欢迎关注")
