@@ -1,3 +1,3 @@
-remote_theme:jekyll-theme-prologue
-# theme: jekyll-theme-cayman
+# remote_theme:jekyll-theme-prologue
+theme: jekyll-theme-cayman
 makedown: kramdown
